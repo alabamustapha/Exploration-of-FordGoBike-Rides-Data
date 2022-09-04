@@ -1,5 +1,5 @@
 # Exploration of Ford GoBike System Data
-## by (Mustapha Olalekan Alaba )
+## by [Mustapha Olalekan Alaba](https://twitter.com/alaba_mustapha)
 
 
 ## Quick Links

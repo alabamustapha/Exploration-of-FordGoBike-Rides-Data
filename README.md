@@ -2,6 +2,11 @@
 ## by (Mustapha Olalekan Alaba )
 
 
+### Quick Links
+1. [Presentation of Findings](https://alabamustapha.github.io/Exploration-of-FordGoBike-Rides-Data/Part_II_slide_deck_fordgobike_tripdata.slides.html)
+1. [Code - Notebook output](https://alabamustapha.github.io/Exploration-of-FordGoBike-Rides-Data/Part_I_exploration_fordgobike_tripdata.html)
+
+
 ## Dataset
 
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset used contains on data for February 2019. A copy of the dataset can be found [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv),

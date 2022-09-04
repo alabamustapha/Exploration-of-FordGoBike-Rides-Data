@@ -1,5 +1,11 @@
-# (Exploration of Ford GoBike System Data)
-## by (Mustapha Olalekan Alaba )
+# Exploration of Ford GoBike System Data
+## By [Mustapha Olalekan Alaba](https://twitter.com/alaba_mustapha)
+
+
+## Quick Links
+
+1. [Presentation of Findings](https://alabamustapha.github.io/Exploration-of-FordGoBike-Rides-Data/Part_II_slide_deck_fordgobike_tripdata.slides.html)
+1. [Code - Notebook output](https://alabamustapha.github.io/Exploration-of-FordGoBike-Rides-Data/Part_I_exploration_fordgobike_tripdata.html)
 
 
 ## Dataset
@@ -19,8 +25,8 @@ For the presentation, my focus was on displaying insights of how the start_time,
 
 I started by creating helper features, then proceed to plot the weekdays rides count for the dataset. Also, an histogram showing how all the the rides are distrubuted accross each hour of the day was plotted.
 
-To see gender distribution, I represented the missing gender record as Not APplicable(NA), then created a bar chart to see how much each gender took rides for the whole month. 
+To see gender distribution, I represented the missing gender record as Not Applicable(NA), then created a bar chart to see how much each gender took rides for the whole month. 
 
-A further exploration was then done producing a breakdown how each gender took rides for each day of the week, this is to know maybe a particular gender rides more relatively on sepecific day of the week.
+Further exploration was then done producing a breakdown how each gender took rides for each day of the week, this is to know maybe a particular gender rides more relatively on sepecific day of the week.
 
 To dig futher, I explored the relationship between ride duration in minutes using violin plot, box plot and an adapted bar chart and finally presented how the user_type affects the average ride duration for each day of the week

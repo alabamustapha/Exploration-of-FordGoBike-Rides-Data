@@ -1,6 +1,8 @@
 # Exploration of Ford GoBike System Data
 ## By [Mustapha Olalekan Alaba](https://twitter.com/alaba_mustapha)
 
+![Bike Photo by Lum3n from Pexels](image.jpg)
+`Photo by Lum3n from Pexels`
 
 ## Quick Links
 

@@ -2,7 +2,8 @@
 ## by (Mustapha Olalekan Alaba )
 
 
-### Quick Links
+## Quick Links
+
 1. [Presentation of Findings](https://alabamustapha.github.io/Exploration-of-FordGoBike-Rides-Data/Part_II_slide_deck_fordgobike_tripdata.slides.html)
 1. [Code - Notebook output](https://alabamustapha.github.io/Exploration-of-FordGoBike-Rides-Data/Part_I_exploration_fordgobike_tripdata.html)
 
